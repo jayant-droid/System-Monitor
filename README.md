@@ -98,7 +98,7 @@ You need access to specific or advanced sensors
 
 **👉 If possible, stick to Option 1 — it does not require HWiNFO.**
 
-**🆓** Pricing****
+**🆓Pricing**
 
 Server App is completely free to use
 
