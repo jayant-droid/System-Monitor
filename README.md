@@ -44,7 +44,7 @@ Includes optional in-app purchases
 The Server App must be installed on the PC you want to monitor.
 It connects securely to the Android app and streams system statistics in real time.
 
-🖥 Supported Platforms
+**🖥 Supported Platforms**
 
 Microsoft Windows 10 or later
 
@@ -52,7 +52,7 @@ x86 and x64 architectures
 
 Download available in the Releases section
 
-🔐** Security**
+**🔐 Security**
 
 Uses HTTPS and WSS (WebSocket Secure) connections
 
