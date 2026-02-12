@@ -3,7 +3,7 @@
   <img src="docs/images/ic_launcher.webp" width="192" alt="System Monitor Icon" />
 </p>
 <p align="center">
-  Make your Android Phone or Tablet your PC / Gaming Rig Monitoring Companion
+  Make your Android Phone or Tablet your PC / Gaming Rig Stats Monitoring Companion
 </p>
 
 **System Monitor – Android App - Your PC Monitoring Companion** 
