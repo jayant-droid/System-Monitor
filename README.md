@@ -29,7 +29,25 @@ Get the latest stable release of **System Monitor**:
 
 > ℹ️ APK is provided for testing purposes.  
 > For production use, prefer the Google Play version (coming soon).
-> 
+
+<h3 align="center">🎥 Video Tutorials</h3>
+
+<p align="center">
+  <a href="https://youtu.be/vJKy31TcGw0">
+    <img src="https://img.youtube.com/vi/vJKy31TcGw0/0.jpg" width="45%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtu.be/ffckllyCJco">
+    <img src="https://img.youtube.com/vi/ffckllyCJco/0.jpg" width="45%" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Android App Walkthrough</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Server App Setup & Usage Guide</b>
+</p>
+
+
 ## 📸 Setup
 
 ---
